@@ -1,1 +1,1 @@
-print("aprenderam a usar o github!")
+print("aprenderam usar o github!")
